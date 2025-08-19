@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## 🌟 Visão Geral
+<img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/bfd541d4-0f85-4e43-a1dc-2c4604ad7684" />
 
 Ferramenta completa de suporte técnico em PowerShell para diagnóstico, monitoramento e manutenção de sistemas Windows. Interface intuitiva com menu interativo e funcionalidades avançadas para administradores de sistema e técnicos de TI.
 
@@ -108,6 +109,7 @@ MIT License - veja [LICENSE](LICENSE) para detalhes.
 **Implementação Completa** - Todas as funcionalidades
 
 ---
+
 
 ⭐ **Se este projeto te ajudou, deixe uma estrela!**
 
